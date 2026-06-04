@@ -1,0 +1,26 @@
+# Data files
+data/raw/
+*.csv
+*.xlsx
+
+# Model artifacts (optional — uncomment if model files are too large)
+# modelo/
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# AWS
+.aws/
